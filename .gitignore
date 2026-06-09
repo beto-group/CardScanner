@@ -1,0 +1,2 @@
+# Ignore cached scripts and images downloaded at runtime
+data/cache/
